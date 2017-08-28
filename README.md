@@ -1,6 +1,6 @@
 # Angular-Test-Project
 To test git commands 
-<<<<<<< HEAD
+
 Test Changes
 Master changes
 Get THIS CHANGE!!!
