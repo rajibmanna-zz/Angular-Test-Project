@@ -5,6 +5,7 @@ public class myClass
     pub myClass()
     {
         val1=0;
-        s="Hi There"
+        s="Hi There";
+        var t="";
     }
 }
