@@ -9,5 +9,6 @@ public class myClass
         s="Hi There";
         var t="";
         val3=5.5;
+        int i=1;
     }
 }
